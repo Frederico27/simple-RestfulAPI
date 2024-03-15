@@ -53,7 +53,7 @@
                 },
 
                 "responses": {
-                    "200" :{
+                    "201" :{
                         "description": "Success Create Contact",
                         "content": {
                             "application/json":{
